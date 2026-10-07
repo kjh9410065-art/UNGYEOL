@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Noto+Sans+KR:wght@300;400;500;600;700&display=swap');
+
+/* This file defines the global reset and typography. */
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#090a1b;color:#f8f4eb;font-family:'Noto Sans KR',sans-serif}a{text-decoration:none;color:inherit}button{font:inherit}::selection{background:#bca5e9;color:#111}
